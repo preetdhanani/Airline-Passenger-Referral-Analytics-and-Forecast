@@ -1,6 +1,6 @@
 # Airline-Passenger-Referral-Analytics-and-Forecast
 
-![Airline Passenger](p1.jpeg)
+![Airline Passenger](P1.jpeg)
 
 # Project_Summary
 The project is focused on developing a predictive model to determine whether a passenger, referred by an existing customer, will make a flight booking. This prediction model utilizes various features including seat comfort, cabin service, travel class, food and beverage options, entertainment services, etc. The model is built using classification techniques in machine learning, enabling it to learn from historical passenger and booking data and provide accurate predictions for new data. This model can be valuable for airlines in targeting marketing campaigns towards potential passengers who are likely to make a flight booking based on a referral from an existing customer.

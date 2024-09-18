@@ -1,6 +1,6 @@
 # Airline-Passenger-Referral-Analytics-and-Forecast
 
-![Airline Passenger]([https://drive.google.com/file/d/1s2t3D3AA5_X0Isiv2L3FAgrJhrKJQhMx/view?usp=sharing](https://www.shutterstock.com/image-vector/traveling-couple-young-people-man-600nw-523655428.jpg))
+![Airline Passenger]((https://www.shutterstock.com/image-vector/traveling-couple-young-people-man-600nw-523655428.jpg)
 
 # Project Summary
 

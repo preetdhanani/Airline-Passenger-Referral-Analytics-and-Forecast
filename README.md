@@ -2,11 +2,10 @@
 
 ![Airline Passenger](https://www.shutterstock.com/image-vector/traveling-couple-young-people-man-600nw-523655428.jpg)
 
-# Project Summary
-
-The project aims to predict whether a passenger referred by an existing customer will book a flight or not, based on various features such as seat comfort, cabin service, travel class,food beverage , entertainment service, etc. The prediction model is developed using classification techniques in machine learning.The use of machine learning techniques allows for the development of a model that can learn from historical passenger and booking data and make accurate predictions on new data. The model can be used by airlines to target marketing campaigns towards potential passengers who are likely to book a flight based on a referral from an existing customer.
+# Project_Summary
+The project is focused on developing a predictive model to determine whether a passenger, referred by an existing customer, will make a flight booking. This prediction model utilizes various features including seat comfort, cabin service, travel class, food and beverage options, entertainment services, etc. The model is built using classification techniques in machine learning, enabling it to learn from historical passenger and booking data and provide accurate predictions for new data. This model can be valuable for airlines in targeting marketing campaigns towards potential passengers who are likely to make a flight booking based on a referral from an existing customer.
 
 
 # Objective
 
-The given data includes airline reviews from 2016 to 2019 for popular airlines around the world with multiple choice and free text questions. Data is scrapped in spring2019.The main objective is to predict whether passengers will refer the airline to their friends.
+The provided dataset comprises airline reviews spanning from 2016 to 2019, encompassing a wide array of popular airlines worldwide. The data encompasses both multiple choice and free text responses and was collected during the spring of 2019. The primary aim of the analysis is to forecast whether passengers are likely to recommend the airline to their acquaintances.

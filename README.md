@@ -1,6 +1,6 @@
 # Airline-Passenger-Referral-Analytics-and-Forecast
 
-![Airline Passenger][https://drive.google.com/file/d/1s2t3D3AA5_X0Isiv2L3FAgrJhrKJQhMx/view?usp=sharing]
+![Airline Passenger](https://drive.google.com/file/d/1s2t3D3AA5_X0Isiv2L3FAgrJhrKJQhMx/view?usp=sharing)
 
 # Project Summary
 
